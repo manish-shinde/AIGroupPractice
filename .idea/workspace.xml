@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0fdf6b4-8c4a-489b-8184-04673982c0b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AIGroupPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/ArrayCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/DataFrameCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/InterviewCodingPractice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/ListCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/NumpyCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/PandasCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingPractice/StringCoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataScience/Matplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/Cascades/haarcascade_eye.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/Cascades/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/Cascades/haarcascade_smile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/faceDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/faceEyeDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/faceSmileDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FaceDetection/faceSmileEyeDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/RegressionBasic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MachineLearning/hp_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NLP/nlp_first_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/ResizeMultipleImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/resized_s10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/resized_s7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/resized_s9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/s10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/s7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/s8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResizeMultipleImage/s9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/FlaskAPI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/FlaskAPI.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/FlaskAPI.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +14,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -59,6 +31,13 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/FlaskAPI.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -66,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -85,36 +64,6 @@
             <path>
               <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingPractice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="FaceDetection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="NLP" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AIGroupPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AIGroupPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="ResizeMultipleImage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,7 +94,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.faceDetection">
+  <component name="RunManager" selected="Python.FlaskAPI">
+    <configuration name="FlaskAPI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AIGroupPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/FlaskAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="faceDetection" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AIGroupPractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +138,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.FlaskAPI" />
       <item itemvalue="Python.faceDetection" />
+      <item itemvalue="Python.Unnamed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FlaskAPI" />
         <item itemvalue="Python.faceDetection" />
       </list>
     </recent_temporary>
@@ -188,6 +160,14 @@
       <option name="presentableId" value="Default" />
       <updated>1558939371645</updated>
     </task>
+    <task id="LOCAL-00001" summary="1. Created Architecture&#10;2. Added API , CodingPractice, DataScience, Machine Learning , Deep Learning , FaceDetection, NLP, ResizeMultipleImage, OpenCv">
+      <created>1558942252284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558942252284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -218,7 +198,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/api/FlaskAPI.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
